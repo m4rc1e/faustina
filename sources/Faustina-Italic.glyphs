@@ -54128,7 +54128,7 @@ instanceInterpolations = {
 };
 isItalic = 1;
 linkStyle = Medium;
-name = MediumItalic;
+name = "Medium Italic";
 weightClass = Medium;
 },
 {
@@ -54150,7 +54150,7 @@ instanceInterpolations = {
 };
 isItalic = 1;
 linkStyle = SemiBold;
-name = SemiboldItalic;
+name = "SemiBold Italic";
 weightClass = SemiBold;
 },
 {
